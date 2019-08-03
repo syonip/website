@@ -5793,6 +5793,11 @@ qs@6.7.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
+quasar-prompt-validation-dialog@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/quasar-prompt-validation-dialog/-/quasar-prompt-validation-dialog-1.0.0.tgz#968ed2454d04738387a23c50f52977b2ac5e023e"
+  integrity sha512-HNSc+joX+HnANAz3BGL+SjCib1YBDV4tWa00asJuunkH1N3PNmjftjVoYgE+ibLcO7bMGHNjMZ+FYhUdCfuQ9g==
+
 quasar@^1.0.0:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/quasar/-/quasar-1.0.5.tgz#caddfac55fca0779c996dc1b3977a045ae1426e6"
